@@ -1,2 +1,11 @@
-# uc3-atividade-01
-Atividade 01 das aulas de git/github.
+
+# Atividade 1
+
+Repositório serve para aprender a usar github e praticar com github.
+
+## Senac SC Joinville
+
+### Professor Gabriel Caixeta 
+
+#### Aluno: João Vitor Prestes Garcia
+
